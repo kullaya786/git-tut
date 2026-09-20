@@ -1,3 +1,3 @@
 def fun():
-    print('hello welcome -dev')
+    print('hello')
 fun()
